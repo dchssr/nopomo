@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    height: 100vh;
+    margin: 0;
+
+    font-family: sans-serif;
+    background-coelor: white;
+    color: black;
+}
+
+header, footer {
+    display: inline;
+    padding: 4px;
+
+    background-color: black;
+    color: white;
+}
+
+.credit {
+    text-align: right;
+}
+
+.credit a:link,
+.credit a:visited,
+.credit a:hover,
+.credit a:active {
+    color: olivedrab;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+main {
+    padding: 1em;
+}
+
+
+
