@@ -1,0 +1,24 @@
+{
+  "name": "nopomo",
+  "version": "0.0.1",
+  "description": "A pomodoro timer!  What else were you expecting?",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchssr/nopomo.git"
+  },
+  "keywords": [
+    "pomodoro",
+    "timer",
+    "nopomo"
+  ],
+  "author": "Dave Chesser <me@dchssr.site>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/dchssr/nopomo/issues"
+  },
+  "homepage": "https://github.com/dchssr/nopomo#readme"
+}
