@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+	"outDir": "./assets/scripts",
+	"outFile": "./assets/scripts/nopomo.js",
+	"removeComments": false,
+
+        "strict": true,
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "strictFunctionTypes": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUncheckedIndexedAccess": true
+    },
+    "include": [
+	"./src/**/*"
+    ]
+}
